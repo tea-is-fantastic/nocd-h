@@ -1,0 +1,18 @@
+{
+  "name": "@nocd/h",
+  "version": "0.0.3",
+  "description": "Download snippets from Github",
+  "bin": {
+    "@nocd/h": "bin/install.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "fs-extra": "^11.3.0",
+    "handlebars": "^4.7.8",
+    "handlebars-helpers": "^0.10.0",
+    "yargs": "^17.7.2"
+  }
+}
